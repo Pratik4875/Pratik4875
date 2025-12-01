@@ -126,24 +126,43 @@ Drone pilot–client connector platform (web + backend)
 
 <div align="center">
 
-### ⭐ GitHub Stats
-<img src="https://github-readme-stats-mu-wine.vercel.app/api?username=pratik4875&show_icons=true&theme=tokyonight" width="100%" />
+### 🚀 Activity Overview
+| Metric | Status |
+|--------|--------|
+| 🟦 Public Repositories | **15+ projects** |
+| 🟩 Active Domains | Robotics, IoT, Embedded Systems, Automation |
+| 🟨 Code Languages | Python, C++, C, JavaScript, Dart |
+| 🟧 Current Projects | Smart Garden IoT, Drone Connect, ROS2 Telemetry |
+| 🔥 Coding Frequency | Active across weekly commits |
 
 <br/>
 
-### 🔤 Most Used Languages
-<img src="https://github-readme-stats-mu-wine.vercel.app/api/top-langs/?username=pratik4875&layout=compact&theme=tokyonight" width="100%" />
+### 🧠 Language Usage (Self-Reported)
+- 🔹 **Python** — Robotics, IoT cloud dashboards, ML  
+- 🔹 **C/C++** — ESP32, embedded firmware, microcontrollers  
+- 🔹 **JavaScript/Node.js** — dashboards, APIs, web automation  
+- 🔹 **Flutter/Dart** — IoT mobile apps  
 
 <br/>
 
-### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com?user=pratik4875&theme=tokyonight" width="80%" />
+### 🏆 Project Domains Breakdown
+- 🤖 **Robotics / Automation** — 40%  
+- 🌐 **IoT + Cloud Dashboards** — 30%  
+- ⚙️ **Embedded Systems (ESP32/Arduino)** — 20%  
+- 🧪 **AI / ML Experiments** — 10%  
 
-<br/><br/>
+<br/>
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik4875&theme=tokyo-night" width="100%" />
+### 🧩 Contribution Highlights
+- 🔧 Built real-world IoT systems (Smart Garden, Smart Room)  
+- 🚁 Drone ecosystem contributor (drone-connect-main)  
+- 📡 ROS2 telemetry developer  
+- 👨‍💻 Mix of robotics + web + embedded projects  
+- 🔭 Expanding into TinyML + onboard AI  
 
+<br/>
+
+✨ *This analytics section is self-hosted, GitHub-friendly, and will never break.*  
 </div>
 
 ---
