@@ -1,16 +1,15 @@
 <div align="center">
 
-# 🤖 Pratik Kadam
+# 🤖 Pratik Kadam  
+### Robotics | IoT | Embedded Systems Developer  
 
-### Robotics Developer | IoT & Embedded AI Specialist | Automation Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;IoT+%26+Embedded+AI+Engineer;Automation+%7C+Firmware+%7C+Control+Systems;Building+Intelligent+Real-World+Machines" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Robotics+Developer+%7C+Building+Intelligent+Machines;IoT+%7C+Embedded+AI+%7C+Automation;From+Circuits+to+Cognitive+Systems" alt="Typing SVG" />
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-kadam30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikkadam1030@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik4875)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pMRGR3MROflfoRNfN6KwI_SKOscNCPyf/view?usp=sharing)
-
+[![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik4875)
 ![Profile Views](https://komarev.com/ghpvc/?username=pratik4875&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
@@ -22,208 +21,153 @@
 ```python
 class PratikKadam:
     def __init__(self):
-        self.role = "Robotics Developer"
-        self.company = "Robotics Company"
+        self.role = "Robotics | IoT | Embedded Systems Developer"
         self.location = "Mumbai, India"
-        self.education = "MSc AI & Automation Aspirant"
-        self.expertise = ["Robotics Systems", "IoT Integration", "Embedded AI", "Automation"]
-        self.passion = "Building intelligent machines that interact with the real world"
-        
-    def daily_workflow(self):
-        return ["Design → Build → Program → Test → Debug with ☕ → Deploy"]
-    
-    def philosophy(self):
-        return "Creating robots that don't just move, but think and adapt"
+        self.interests = ["Robotics", "IoT", "Firmware", "Automation", "AI on Edge"]
+        self.focus = "Building intelligent, connected systems that sense, think, and act"
+
+    def current_mission(self):
+        return "Designing future-ready robotic + automation systems"
+
+    def fun_fact(self):
+        return "I debug more with coffee than logic ☕"
 ```
 
-> 💡 **Fun Fact:** I debug more with coffee than logic ☕
+💡 Passionate about **robotics**, **control systems**, **embedded AI**, and building real-world intelligent machines.
 
 ---
 
-## 🔬 Current Focus
+## 🔧 **Skills & Tech Stack**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ Active Projects
-- 🤖 **Robotics Systems Development**
-  - Industrial automation solutions
-  - Autonomous navigation systems
-  - Sensor fusion & control algorithms
-- 🏠 **Smart IoT Integration**
-  - Connected robotics platforms
-  - Real-time monitoring systems
-  - [Smart Room System →](https://github.com/Pratik4875/Smart-Room-Light-System)
-
-</td>
-<td width="50%">
-
-### 📚 Learning Path
-- 🤖 Advanced Robotics Control
-- 🧠 TinyML & Edge AI
-- 📡 ROS (Robot Operating System)
-- 🎯 Computer Vision for Robotics
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Technical Arsenal
-
-### ⚡ Robotics & Embedded Systems
+### 🤖 Robotics & Embedded Systems  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧠 AI + ML  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💻 Programming Languages
+### 💻 Programming  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web & App Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🌐 App & Web  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### ☁ Cloud & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🎯 Expertise Areas
-
-<div align="center">
+## 🧠 Robotics & IoT Knowledge Map
 
 ```mermaid
 mindmap
   root((Pratik))
-    Robotics Development
+    Robotics
+      Sensor Fusion
       Motion Control
       Path Planning
-      Sensor Fusion
       Autonomous Systems
     Embedded Systems
-      Microcontroller Programming
-      Arduino/ESP32
-      Real-time Systems
-      Firmware Development
-    IoT Integration
-      Wireless Communication
-      Cloud Connectivity
+      ESP32 Firmware
+      Real-Time Systems
+      C/C++ Programming
+      Hardware Debugging
+    IoT Engineering
+      MQTT / Cloud Sync
+      Smart Automation
       Remote Monitoring
-      Edge Computing
-    AI & Automation
-      Machine Learning
+      Edge AI Processing
+    AI for Robotics
+      ML Models on Edge
       Computer Vision
-      TinyML/Edge AI
-      Intelligent Control
+      TinyML
+      Adaptive Control
 ```
-
-</div>
 
 ---
 
-## 🤝 Collaboration Interests
+## 🚀 Projects (Featured)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 💡 Looking to Collaborate On:
-- 🤖 Robotics & Autonomous Systems
-- 🏭 Industrial Automation Projects
-- 🧠 AI-Powered Robotics Solutions
-- 📡 IoT-Connected Robot Networks
-- 🎯 Computer Vision Applications
+### 🔌 **SmartGarden_IoT**  
+🌱 Smart irrigation + sensor monitoring using ESP32  
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Pratik4875/SmartGarden_IoT)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🆘 Seeking Help With:
-- 🎯 Advanced ROS Integration
-- 🔬 SLAM & Navigation Algorithms
-- 🌐 Multi-Robot Coordination
-- 📊 Real-time Sensor Fusion
-- 🤖 Humanoid Robotics Systems
+### 📡 **ros2_telemetry_demo**  
+Real-time ROS2 telemetry + dashboards  
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Pratik4875/ros2_telemetry_demo)
 
-</td>
-</tr>
-</table>
+---
+
+### 🚁 **drone-connect-main**  
+Drone pilot–client connector platform (web + backend)  
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Pratik4875/drone-connect-main)
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratik4875&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik4875&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
-</div>
+### ⭐ GitHub Stats
+<img src="https://github-readme-stats-mu-wine.vercel.app/api?username=pratik4875&show_icons=true&theme=tokyonight" width="100%" />
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratik4875&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+### 🔤 Most Used Languages
+<img src="https://github-readme-stats-mu-wine.vercel.app/api/top-langs/?username=pratik4875&layout=compact&theme=tokyonight" width="100%" />
 
-</div>
+<br/>
 
-<div align="center">
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=pratik4875&theme=tokyonight" width="80%" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratik4875&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9)
+<br/><br/>
 
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Smart Home](https://github-readme-stats.vercel.app/api/pin/?username=Pratik4875&repo=Smart-Room-Light-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/Pratik4875/Smart-Room-Light-System)
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik4875&theme=tokyo-night" width="100%" />
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 🤝 Collaboration
 
-<div align="center">
-
-**Open to:**
-- 🚀 Robotics Development Projects
-- 🤖 AI/ML for Robotics Collaborations
-- 💼 R&D & Innovation Opportunities
-- 🎓 Knowledge Sharing & Mentorship
-
-**Ask me about:** Robotics Systems • Arduino/ESP32 • Sensor Integration • Motion Control • ROS • Embedded AI
+- Robotics & Automation Systems  
+- Drone & Autonomous Navigation  
+- IoT + Embedded AI Projects  
+- ROS / ROS2 Development  
+- Cloud-connected Smart Devices  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+<div align="center">
 
-⚡ *"Building robots that don't just execute commands, but understand the world"* ⚡
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-kadam30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikkadam1030@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff" width="100%"/>
+
+⚡ *"Building robots that don't just move — but understand the world"* ⚡
 
 </div>
